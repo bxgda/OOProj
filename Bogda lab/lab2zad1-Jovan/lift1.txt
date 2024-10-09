@@ -1,0 +1,10 @@
+Skijaliste: Ski1
+Naziv:      Lift 1
+Kapacitet:  50
+Prikljucci: 
+
+Dvosed 1 (2/2)
+	Masa: 138/250 kg
+	Skijasi: Jovan Aleksandar 
+
+

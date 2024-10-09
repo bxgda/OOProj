@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4MUP", "lab4MUP\lab4MUP.csproj", "{09301D47-5027-4688-B3CA-7169DA7CD68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podaci", "Podaci\Podaci.csproj", "{A1D93333-AE29-42C1-8D6F-2128629EAD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekstenzije", "Ekstenzije\Ekstenzije.csproj", "{FD6B6C3D-09C0-4BF8-BFB6-214BB5ADB68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09301D47-5027-4688-B3CA-7169DA7CD68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09301D47-5027-4688-B3CA-7169DA7CD68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09301D47-5027-4688-B3CA-7169DA7CD68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09301D47-5027-4688-B3CA-7169DA7CD68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D93333-AE29-42C1-8D6F-2128629EAD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D93333-AE29-42C1-8D6F-2128629EAD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D93333-AE29-42C1-8D6F-2128629EAD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D93333-AE29-42C1-8D6F-2128629EAD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6B6C3D-09C0-4BF8-BFB6-214BB5ADB68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6B6C3D-09C0-4BF8-BFB6-214BB5ADB68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6B6C3D-09C0-4BF8-BFB6-214BB5ADB68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6B6C3D-09C0-4BF8-BFB6-214BB5ADB68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124E0B88-8D98-47A6-BA94-BC4A6880F9C4}
+	EndGlobalSection
+EndGlobal

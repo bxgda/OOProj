@@ -1,0 +1,6 @@
+Naziv:         Lift 1
+Kapacitet:     30
+Skijaliste:    Ski1
+Prikljucci:    
+Dvosed 1 (2/2)  |  Masa: 176/250 kg  |  Skijasi: Pera, Mika
+

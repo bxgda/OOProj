@@ -1,0 +1,18 @@
+Skijaliste: Ski1
+Naziv:      Lift 3
+Kapacitet:  30
+Prikljucci: 
+
+Tanjir 6 (1/1)
+	Izmerena masa: 100 kg
+	Skijasi: Mirko 
+
+
+
+Tanjir 7 (1/1)
+	Izmerena masa: 55 kg
+	Skijasi: Mario 
+
+
+
+

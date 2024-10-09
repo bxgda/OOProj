@@ -1,0 +1,24 @@
+Skijaliste: Ski1
+Naziv:      Lift 2
+Kapacitet:  53
+Prikljucci: 
+
+Cetvorosed 3 (1/4)
+	Izmerena masa: 80 kg
+	Skijasi: Mladen 
+
+
+
+Cetvorosed 4 (3/4)
+	Izmerena masa: 229 kg
+	Skijasi: Marijana Vojin Aleksa 
+
+
+
+Cetvorosed 5 (1/4)
+	Izmerena masa: 99 kg
+	Skijasi: Lazar 
+
+
+
+
